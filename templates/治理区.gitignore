@@ -1,0 +1,11 @@
+/main/
+/worktrees/
+
+# 凭据类路径一律不纳入治理区的版本管理（只按文件名排除，不读内容）
+.env
+.env.*
+*.pem
+*.key
+*secret*
+*credential*
+auth.json
