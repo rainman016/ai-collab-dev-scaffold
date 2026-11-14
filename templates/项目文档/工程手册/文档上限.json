@@ -1,0 +1,17 @@
+{
+  "_说明": "文档体检.sh 读本文件，数值只放这里，改数先改这里。字数按字符数（人工数用 Python len；文档体检.sh 会先自检 wc -m，不对就改用 Python）；行数按非空行。agents_max、overview_max、task_progress_max 超了会拦提交，其余只提醒。超限只能移走，不许删没处理完的反馈和授权。归档不计。status_path、pool_heading、status_headings 只给手册可选巡检用，只装脚手架时不用管。",
+  "agents_max": 2200,
+  "overview_max": 2600,
+  "task_progress_max": 1200,
+  "plan_max_lines": 120,
+  "task_package_max": 3000,
+  "report_max": 6000,
+  "conclusion_max": 1500,
+  "receipt_max": 1500,
+  "contract_max": 2000,
+  "recent_max_rows": 10,
+  "rules_budget": 16000,
+  "status_path": "项目文档/任务记录/当前任务总览.md",
+  "pool_heading": "任务表",
+  "status_headings": ["现在在哪", "任务表", "持续授权与约束", "施工区登记", "运行资源与迁移号", "最近完成"]
+}
