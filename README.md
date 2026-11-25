@@ -2,7 +2,7 @@
 
 *English: An AI-executed setup guide for a new or in-progress code project. It sets up three things only — a handover trail any AI can pick up from, hard delivery rules for code (approval gates, evidence, review), and machine-checked limits that keep docs from bloating. Multi-window AI coordination lives in the companion "lead-session collaboration playbook".*
 
-> 版本 v2.0。多个 AI 窗口怎么协作看[《总控协作手册》](https://github.com/rainman016/solo-ai-team-playbook/blob/v3.0/README.md)，代码项目怎么交付看这里；衔接细节见 [衔接说明.md](衔接说明.md)。
+> 版本 v2.0.1。多个 AI 窗口怎么协作看[《总控协作手册》](https://github.com/rainman016/solo-ai-team-playbook/blob/v3.2/README.md)，代码项目怎么交付看这里；衔接细节见 [衔接说明.md](衔接说明.md)。
 
 ## 1. 一句话
 
